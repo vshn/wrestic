@@ -43,7 +43,7 @@ require (
 	github.com/prometheus/procfs v0.0.0-20180612222113-7d6f385de8be // indirect
 	github.com/smartystreets/goconvey v1.6.4 // indirect
 	github.com/spf13/pflag v1.0.1 // indirect
-	github.com/stretchr/testify v1.3.0
+	github.com/stretchr/testify v1.7.0
 	golang.org/x/sync v0.0.0-20200317015054-43a5402ce75a // indirect
 	golang.org/x/sys v0.0.0-20190310054646-10058d7d4faa // indirect
 	gopkg.in/check.v1 v1.0.0-20200227125254-8fa46927fb4f // indirect
