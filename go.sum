@@ -19,6 +19,8 @@ github.com/emicklei/go-restful-swagger12 v0.0.0-20170208215640-dcef7f557305 h1:2
 github.com/emicklei/go-restful-swagger12 v0.0.0-20170208215640-dcef7f557305/go.mod h1:qr0VowGBT4CS4Q8vFF8BSeKz34PuqKGxs/L0IAQA9DQ=
 github.com/firepear/qsplit v2.2.3+incompatible h1:PbKuqHRRFYZISQjL+FUwivG3SYucF+6sd3wGtV8TGxE=
 github.com/firepear/qsplit v2.2.3+incompatible/go.mod h1:27MIcyepCGEBV4aUKmrihtS44f3mG0fVWhu8GDOpwjU=
+github.com/firepear/qsplit v2.5.0+incompatible h1:w++UDnIDMz3ug2VVSR+f897VM0n6eDh6oy1itqnoxU8=
+github.com/firepear/qsplit v2.5.0+incompatible/go.mod h1:27MIcyepCGEBV4aUKmrihtS44f3mG0fVWhu8GDOpwjU=
 github.com/ghodss/yaml v1.0.0 h1:wQHKEahhL6wmXdzwWG11gIVCkOv05bNOh+Rxn0yngAk=
 github.com/ghodss/yaml v1.0.0/go.mod h1:4dBDuWmgqj2HViK6kFavaiC9ZROes6MMH2rRYeMEF04=
 github.com/go-ini/ini v1.38.2 h1:6Hl/z3p3iFkA0dlDfzYxuFuUGD+kaweypF6btsR2/Q4=

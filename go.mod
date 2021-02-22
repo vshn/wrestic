@@ -9,7 +9,7 @@ require (
 	github.com/elazarl/goproxy v0.0.0-20200315184450-1f3cb6622dad // indirect
 	github.com/emicklei/go-restful v2.8.0+incompatible // indirect
 	github.com/emicklei/go-restful-swagger12 v0.0.0-20170208215640-dcef7f557305 // indirect
-	github.com/firepear/qsplit v2.2.3+incompatible
+	github.com/firepear/qsplit v2.5.0+incompatible
 	github.com/ghodss/yaml v1.0.0 // indirect
 	github.com/go-ini/ini v1.38.2 // indirect
 	github.com/go-logr/glogr v0.1.0
