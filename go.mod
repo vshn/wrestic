@@ -12,7 +12,7 @@ require (
 	github.com/firepear/qsplit v2.2.3+incompatible
 	github.com/ghodss/yaml v1.0.0 // indirect
 	github.com/go-ini/ini v1.38.2 // indirect
-	github.com/go-logr/glogr v0.1.0
+	github.com/go-logr/glogr v0.4.0
 	github.com/go-logr/logr v0.1.0
 	github.com/go-openapi/jsonpointer v0.0.0-20180322222829-3a0015ad55fa // indirect
 	github.com/go-openapi/jsonreference v0.0.0-20180322222742-3fb327e6747d // indirect
